@@ -1,0 +1,106 @@
+
+
+#logobrand{
+    color: whitesmoke;
+   font-family:Black Ops One;
+    font-size: 28px;
+}
+
+.nav-item .links{
+    color:whitesmoke;
+    font-family:Bebas Neue;
+    font-size: 22px;
+    font-weight:400;
+    letter-spacing:2px;
+
+}
+
+
+.fluid{
+    height:600px;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("./images/pic.jpg");
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    z-index:-1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.fluid_1{
+    background-position: center center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+#navheader{
+     font-family:Bebas Neue;
+     text-align: center;
+     font-size: 60px;
+}
+
+
+#buttonnav{
+      font-family:Bebas Neue;
+      height: 60px;
+      font-size: 18px;
+      letter-spacing:1px;
+      margin: auto;
+    
+}
+
+.menu-header{
+     font-family:Bebas Neue;
+}
+
+.headercart{
+    font-family:Bebas Neue;
+    text-align: center;
+    font-size:22px;
+    margin-top: 10px;
+}
+
+#heading{
+    font-family:Bebas Neue;
+    font-size:45px;
+}
+
+#text1{
+     font-family:Open Sans;
+     font-size:20px;
+}
+
+
+#imgcard{
+    border-radius:20px;
+}
+
+#aboutheading{
+     font-family:Bebas Neue;
+    font-size:45px;
+}
+
+
+#footer{
+    height:400px;
+}
+.headingfooter{
+    font-family:Bebas Neue;
+    font-size:30px;
+}
+
+i{
+    font-size:30px;
+}
+
+
+@media(max-width:768px) {
+    #footer{
+        height: 100%;
+    }
+    
+}
